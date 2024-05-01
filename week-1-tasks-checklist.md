@@ -16,7 +16,7 @@ This task has three goals:
 
   ### Part 2: Complete a brief introductory document
 
-### Associated Task
+#### Associated Task
   **Task 2:** In the `introductions` directory, rename the document `hello-world.md` to `name-hello-world.md`, where `name` is what you want to be called. For instance, 8 would rename it `octopus-hello-world.md`. Then, edit the document to include answers to the questions. Be sure that whatever you write, you are comfortable with having shared publicly.  
 
   ### Part 3: Upskill on Software Editing
@@ -33,6 +33,7 @@ This task has three goals:
 
   ...
 
-  * **Final Boss:** Experienced, knowledgeable, and ready to share and collaborate with any other level. 
+  * **Final Boss:** Experienced, knowledgeable, and ready to share and collaborate with any other level.
+  * 
 #### Associated Task 
   **Task 3:** Perform a concrete task that moves you up at least one level in the "Knowledge Hierarchy". Share your progress (and any questions) in Discord. 
