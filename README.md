@@ -2,6 +2,12 @@
 
 **Last Updated:** April 25, 2024
 
+
+## Tasks
+
+### Week 1
+:link: :fire: Complete  the tasks in the [Week 1](https://github.com/TE-Academy/Reputation-Weighted-Voting/blob/main/week-1-tasks-checklist.md) tasks document. 
+
 ## Before We Start: Learning List on Voting and Social Choice
 
 
@@ -21,5 +27,5 @@
 * Install an IDE. [VSCode](https://code.visualstudio.com/download) is a good choice, especially for beginners. Here is a [walkthrough](https://code.visualstudio.com/docs/introvideos/basics) on how to get set up.  If you already have an opinion on [vim/emacs war](https://en.wikipedia.org/wiki/Editor_war), you're well ahead of what we will be discussing. 
 
 
-
+ 
 
