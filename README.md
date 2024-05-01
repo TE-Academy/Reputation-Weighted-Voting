@@ -1,8 +1,10 @@
 # Reputation Weighted Voting and Exploring with Computers
 
-**Last Updated:** April 25, 2024
+**Last Updated:** May 1, 2024
 
+## Overview
 
+This is a living document curated by instructors and students in the TokenEngineering Academy Reputation Weighted Voting course. Over time, it will serve as a place to find essential information. 
 
 ## Week 1
 
