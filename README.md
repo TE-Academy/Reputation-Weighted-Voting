@@ -3,12 +3,13 @@
 **Last Updated:** April 25, 2024
 
 
-## Tasks
 
-### Week 1
-:link: :fire: Complete  the tasks in the [Week 1](https://github.com/TE-Academy/Reputation-Weighted-Voting/blob/main/week-1-tasks-checklist.md) tasks document. 
+## Week 1
 
-## Before We Start: Learning List on Voting and Social Choice
+### Tasks
+:link: :fire: Complete  the tasks in the [Week 1](https://github.com/TE-Academy/Reputation-Weighted-Voting/blob/main/week-1-tasks-checklist.md) tasks document, before Tuesday May 7. 
+
+## Week 0 (Before We Start:) Learning List on Voting and Social Choice
 
 
 ### Videos
