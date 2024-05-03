@@ -4,6 +4,8 @@
 
 Here is a list of resources that will help prepare learners for the topics of discussion in Week 2 of the TE Academy RWV Course. 
 
+ Please be sure to engage with these materials, regardless of your interest in working on software. They reveal crucial principles for the more general mechanism design and validation principles that we will be using during the course. 
+
 ### Systems, Requirement, and Risk Engineering
 * [What Is Systems Engineering, Part 1](https://www.youtube.com/watch?v=pSfZutP9H-U), by MATLAB. The entire playlist is an excellent introduction to engineering for those coming from outside the field. 
 * [Introduction to Requirements Engineering, Part 1](https://www.youtube.com/watch?v=qENBiYaAXNE)
