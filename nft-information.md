@@ -48,11 +48,40 @@ Here is a list of activities that can be completed for points in the course.
 
 #### Week 2: May 8 - May 14. 
 
-**Task 5:** 
-* **Description:** 
-* **Date Available:** 
-* **Point Value:**
+**Task 5.0: Spreadsheet Setup** 
+* **Description:** Set up spreadsheet for initial analysis of voting mechanisms. The spreadsheet should have: 1. a place to input the **voter information**, 2. a place to input the **voter record**, and 3. a place where the **final vote output** is displayed. 
+* **Availability:** 1 volunteer, by May 10. 
+* **Point Value:** 10 points.
 
+**Task 5.1: Spreadsheet Documentation Video** 
+* **Description:** Create a video, showing how to use the spreadsheet created in Task 5.0.
+* **Availability:** 1 volunteer, by May 10. 
+* **Point Value:** 10 points.
+
+**Task 5.2: Spreadsheet Validation** 
+* **Description:** *Validate* the spreadsheet created in Task 5.0, by doing a few hand calculations of simple cases and confirming that the spreadsheet is in line with expected results. 
+* **Availability:** 1 volunteer, by May 10. 
+* **Point Value:** 10 points. 
+
+**Task 6: Week 2 Summary** 
+* **Description:** Write a summary of this session and collect all links to resources we’ve discussed. Submit a link.
+* **Availability:** 1 volunteer, by May 14. 
+* **Point Value:** 8 points. 
+
+**Task 7: Give Examples of Interesting Voting Processes** 
+* **Description:** On Discord, give an example of an interesting voting process. Describe *in detail* the structure of process, what is intended to achieve, and any interesting facets.
+* **Availability:** Everyone, by May 14. 
+* **Point Value:** 2 points. 
+
+**Task 8: Give Examples of System Parameters** 
+* **Description:** In class on May 8, we discussed [two examples of system parameters](https://www.youtube.com/live/rU1eN2wSvu8?feature=shared&t=3595). On Discord, give an example of a *system parameter*. Explain the possible values, and how it impacts the performance of the system while in operation.  
+* **Availability:** Everyone, by May 14. 
+* **Point Value:** 2 points. 
+
+
+
+
+  
 #### Week 3: May 15 - 21
 
 * **Task [Number]:**
