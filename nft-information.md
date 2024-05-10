@@ -23,42 +23,58 @@ After the completion of the course, students will have the opportunity to earn a
 
 Here is a list of activities that can be completed for points in the course. 
 
-#### Week 1
+#### Week 1: May 1 - May 7, 2024
+
+**Task 1:**
+* **Description:** Set up the Requirements List as a Google spreadsheet. Submit a link in the Discord. 
+* **Availability:** One volunteer, completed by May 2. 
+* **Point Value:** 8 points.
+
+ **Task 2:**
+* **Description:** Contribute a requirement to the Requirements List Google spreadsheet. 
+* **Availability:**  Everyone, must be completed by May 8.
+* **Point Value:** 2 points.
+
+ **Task 3:**
+* **Description:** Write a summary of this session and collect all link to resources we’ve discussed. Submit a link 
+* **Availability:**  One volunteer, must be completed by May 8.
+* **Point Value:** 8 points. 
+
+**Task 4:** 
+* **Description:** Complete the [Week 1 Checklist](https://github.com/TE-Academy/Reputation-Weighted-Voting/blob/main/week-1-tasks-checklist.md) which provides a basis for skills useful later in the course. 
+* **Availability:**  Everyone, by May 8. 
+* **Point Value:** 2 points. 
+
+
+#### Week 2: May 8 - May 14. 
+
+**Task 5:** 
+* **Description:** 
+* **Date Available:** 
+* **Point Value:**
+
+#### Week 3: May 15 - 21
 
 * **Task [Number]:**
 * **Description:**
 * **Date Available:** 
 * **Point Value:**
 
-#### Week 2
+#### Week 4: May 22 - 28
 
 * **Task [Number]:**
 * **Description:**
 * **Date Available:** 
 * **Point Value:**
 
-#### Week 3
+#### Week 5: May 29 - June 5
 
 * **Task [Number]:**
 * **Description:**
 * **Date Available:** 
 * **Point Value:**
 
-#### Week 4
-
-* **Task [Number]:**
-* **Description:**
-* **Date Available:** 
-* **Point Value:**
-
-#### Week 5
-
-* **Task [Number]:**
-* **Description:**
-* **Date Available:** 
-* **Point Value:**
-
-#### Week 6
+#### Week 6: June 6 - 11
 
 * **Task [Number]:**
 * **Description:**
