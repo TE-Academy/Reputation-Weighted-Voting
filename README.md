@@ -15,9 +15,9 @@ This is a living document curated by instructors and students in the TokenEngine
 ## Table of Contents
 
 - [Introductions](https://github.com/TE-Academy/Reputation-Weighted-Voting/tree/main/introductions)
-- [Lessons](https://github.com/TE-Academy/Reputation-Weighted-Voting-Repo-Redesign/tree/main/lessons)
-- [Misc.](https://github.com/TE-Academy/Reputation-Weighted-Voting-Repo-Redesign/tree/main/misc)
-- [License](https://github.com/TE-Academy/Reputation-Weighted-Voting-Repo-Redesign/tree/main?tab=MIT-1-ov-file)
+- [Lessons](https://github.com/TE-Academy/Reputation-Weighted-Voting/tree/main/lessons)
+- [Misc.](https://github.com/TE-Academy/Reputation-Weighted-Voting/tree/main/misc)
+- [License](https://github.com/TE-Academy/Reputation-Weighted-Voting/tree/main?tab=MIT-1-ov-file)
 
 ## Week 1
 
