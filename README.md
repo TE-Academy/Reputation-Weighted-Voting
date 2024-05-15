@@ -2,7 +2,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![Notion](./misc/icons8-notion.svg)](https://te-academy.notion.site/Welcome-to-TE-Academy-s-Study-Season-Information-Hub-dde8cebd28344071acffa4cf3d195c01?p=4d7dea83b4ea4b019f48a12c8be8d31a&pm=c)
 [![YouTube](./misc/icons8-youtube.svg)](https://youtube.com/playlist?list=PL-GxJch-YeZeU0mIef9P4JXkZIBOyJPq0&si=i_iF4xurPVkWwUwz)
-[![X (formerly Twitter)]([./misc/icons8-twitterx.svg](https://github.com/TE-Academy/Reputation-Weighted-Voting/blob/main/misc/icons8-x-filled-wh.svg))](https://twitter.com/tokengineering) 
+[![X (formerly Twitter)](./misc/icons8-x-filled-bl.svg)](https://twitter.com/tokengineering) 
 [![Discord](https://img.shields.io/discord/692816967895220344?logo=discord&label=Discord&color=5865F2)](https://discord.gg/rKHuB84y)
 # Reputation Weighted Voting and Exploring with Computers
 
