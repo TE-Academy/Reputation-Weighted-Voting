@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/discord/692816967895220344?logo=discord&label=Discord&color=5865F2)](https://discord.gg/rKHuB84y)
 # Reputation Weighted Voting and Exploring with Computers
 
-**Last Updated:** May 1, 2024
+**Last Updated:** May 10, 2024
 
 ## Overview
 
@@ -40,3 +40,6 @@ This is a living document curated by instructors and students in the TokenEngine
 
 ## Try These Things On Your Computer
 * Install an IDE. [VSCode](https://code.visualstudio.com/download) is a good choice, especially for beginners. Here is a [walkthrough](https://code.visualstudio.com/docs/introvideos/basics) on how to get set up.  If you already have an opinion on [vim/emacs war](https://en.wikipedia.org/wiki/Editor_war), you're well ahead of what we will be discussing. 
+=======
+In general, the most up-to-date information will be available on the course [Notion site](). 
+
