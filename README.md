@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/discord/692816967895220344?logo=discord&label=Discord&color=5865F2)](https://discord.gg/rKHuB84y)
 # Reputation Weighted Voting and Exploring with Computers
 
-**Last Updated:** May 10, 2024
+**Last Updated:** May 15, 2024
 
 ## Overview
 
@@ -14,15 +14,15 @@ This is a living document curated by instructors and students in the TokenEngine
 
 ## Table of Contents
 
-- [Introductions](https://github.com/krowtaergeht/Reputation-Weighted-Voting-Repo-Redesign/tree/main/introductions)
-- [Lessons](https://github.com/krowtaergeht/Reputation-Weighted-Voting-Repo-Redesign/tree/main/lessons)
-- [Misc.](https://github.com/krowtaergeht/Reputation-Weighted-Voting-Repo-Redesign/tree/main/misc)
-- [License](https://github.com/krowtaergeht/Reputation-Weighted-Voting-Repo-Redesign/tree/main?tab=MIT-1-ov-file)
+- [Introductions](https://github.com/TE-Academy/Reputation-Weighted-Voting/tree/main/introductions)
+- [Lessons](https://github.com/TE-Academy/Reputation-Weighted-Voting-Repo-Redesign/tree/main/lessons)
+- [Misc.](https://github.com/TE-Academy/Reputation-Weighted-Voting-Repo-Redesign/tree/main/misc)
+- [License](https://github.com/TE-Academy/Reputation-Weighted-Voting-Repo-Redesign/tree/main?tab=MIT-1-ov-file)
 
 ## Week 1
 
 ### Tasks
-:link: :fire: Complete  the tasks in the [Week 1](https://github.com/krowtaergeht/Reputation-Weighted-Voting-Repo-Redesign/blob/main/lessons/week-1/tasks/week-1-tasks-checklist.md) tasks document, before Tuesday May 7. 
+:link: :fire: Complete  the tasks in the [Week 1](https://github.com/TE-Academy/Reputation-Weighted-Voting-Repo-Redesign/blob/main/lessons/week-1/tasks/week-1-tasks-checklist.md) tasks document, before Tuesday May 7. 
 
 ## Week 0 (Before We Start:) Learning List on Voting and Social Choice
 
