@@ -1,0 +1,81 @@
+import requests
+import csv
+
+def query_subgraph(raft_id):
+    """Query the Otterspace subgraph to get specific NFT data by raft ID."""
+    query = f"""
+    {{
+        raft(id:"{raft_id}"){{
+            id,
+            specs{{
+                id
+                metadata {{
+                    name
+                    description
+                }}
+                totalBadgesCount
+                badges{{
+                    owner {{
+                        id
+                    }}
+                }}
+            }}
+        }}
+    }}
+    """
+    url = 'https://api.thegraph.com/subgraphs/name/otterspace-xyz/badges-optimism'
+    response = requests.post(url, json={'query': query})
+    return response.json()
+
+def analyze_nft_data():
+    """Analyze the fetched NFT data for specified rafts and calculate weights."""
+    # Raft IDs and their associated weights
+    rafts = {
+        "rafts:29": 1,  # proof-of-knowledge
+        "rafts:74": 2   # proof-of-special contributions
+    }
+    nft_types = {}
+    unique_holders = set()
+
+    for raft_id, weight in rafts.items():
+        data = query_subgraph(raft_id)
+        for spec in data['data']['raft']['specs']:
+            nft_name = spec['metadata']['name'] if spec['metadata'] else 'Unknown NFT'
+            count = spec['totalBadgesCount']
+            nft_types[nft_name] = {
+                'count': nft_types.get(nft_name, {'count': 0, 'weight': weight})['count'] + count,
+                'weight': weight
+            }
+            for badge in spec['badges']:
+                unique_holders.add(badge['owner']['id'])
+
+    return nft_types, len(unique_holders)
+
+def clean_text(text):
+    """Clean text for CSV output."""
+    replacements = {
+        '\u2013': '-',  # EN Dash
+        '\u2014': '-',  # EM Dash
+        '\u2028': '',   # Line Separator
+        '\u2019': "'",  # Right single quotation mark
+    }
+    for old, new in replacements.items():
+        text = text.replace(old, new)
+    return text
+
+def export_data_to_csv(nft_types, unique_holders_count):
+    """Export NFT data with weights to a CSV file, ensuring UTF-8 encoding and clean text."""
+    with open('nft_data.csv', 'w', newline='', encoding='utf-8') as file:
+        writer = csv.writer(file)
+        writer.writerow(['NFT Type', 'Count', 'Weight'])
+        for nft_type, info in nft_types.items():
+            # Clean the nft_type text before writing to CSV
+            clean_nft_type = clean_text(nft_type)
+            writer.writerow([clean_nft_type, info['count'], info['weight']])
+        writer.writerow(['Total unique NFT holders', unique_holders_count, ''])
+
+if __name__ == "__main__":
+    nft_types, unique_holders_count = analyze_nft_data()
+    print("NFT Types and Counts with Weights:", nft_types)
+    print("Total unique NFT holders:", unique_holders_count)
+    export_data_to_csv(nft_types, unique_holders_count)
