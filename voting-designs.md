@@ -34,6 +34,7 @@ while smoothing out inequalities of weight for Voter-Groups and make Voters real
 It takes 2 approaches to tackle this Problems:
 
    **1. Combine Quadratic Funding & Quadratic Voting:**
+   
       * Quadratic Funding protects the outcome against to much influence from high-weight Voters, who put all their Voting-Power on one candidate.
       * Quadratic Voting provides a much more fine grained distribution of the Grant, since the Candidate-Voting-Scores are mapped in a larger range.
       * It is represented with the following Equations:
@@ -44,12 +45,17 @@ It takes 2 approaches to tackle this Problems:
           * For special cases like this, the Grant will be given completely to the Candidate with the highest $QV(a)$, which naturally also the highest Quadratic-Score. 
 
   **2. Voting-Credit allocation depending on weights:**
+  
       * The amount of Voting Credits distributed, will always match exactly the Grant amount.
       * Each Voter receives a share of the Grant, that equals his share on the total weights.
       * This hopefully results in Voters really feeling the impact & power of their Voting-Rights.
       * The outcome in Grant-Distribution will not exactly match the Voted-Credits, which is needed from an Incentive-Compatability persepective.
       * Nevertheless, Voters know their upfront chance of impact, which will be bound by QF & QV rule to minimize the impact of high-weight-groupings.
 
+      
+
 You can find the Presentation-Slides here: https://docs.google.com/presentation/d/1MKdSUUVRQSXPU_SDV6O1fsfNEyTS2RN1oSDXPuwaZP0/edit#slide=id.g202d2d8a737_0_69
+
 A customized Simulation-Tool to verify the Mechanism here: https://github.com/fxFlocke/votingSimulations
+
 Additonally here is a first draw of an Implementation-Schema that can be used: https://discord.com/channels/1016433241978314913/1232416297170636961/1240336875902730270
