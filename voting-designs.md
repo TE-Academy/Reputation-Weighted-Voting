@@ -1,19 +1,14 @@
 # Voting Designs for TEA Reputation-Weighted Voting
 
-## Group Hug, by [Joan](https://github.com/joanbp-dk)
-Basic idea: 
-A voter is asked to vote for exactly one candidate. This keeps the voting interface simple.
-Behind the scenes, however, voters are seen as belonging to different groups of stakeholders: Experts, intellectuals, active participants and the community at large.
-Each of these four groups distributes points among the candidates according to the group's own rules (which are
-further explained in the full description of the design).
-A candidate's final score is the weighted sum of points that they receive from all stakeholder groups.
-The winner is the candidate with the highest final score.
+## GroupHug, by [Joan](https://github.com/joanbp-dk)
 
-Illustration: https://github.com/joanbp-dk/Repbased_voting_playground/blob/Jbp_algorithms/Voting.pdf
+Voting interface: A voter is asked to vote for one of the eligible candidates.
 
-The entire design in its most recent form can be found here: https://github.com/joanbp-dk/Repbased_voting_playground/tree/Jbp_algorithms
+Behind the scenes each voter is seen as belonging to one or more stakeholder groups: Experts, intellectuals, active participants and the community at large. Group membership is determined based on the voter's TEA NFTs. Each stakeholder group distributes points among the candidates according to the group's own algorithm (the specifics are explained in the full description of the design). A candidate's final score is the weighted sum of points that they receive from all stakeholder groups. The winner is the candidate with the highest final score.
 
-There is a readme.txt in the repository which introduces all the included files and describes how to play with the mechanism. 
+[Illustration](https://github.com/joanbp-dk/Repbased_voting_playground/blob/main/Voting.pdf)
+
+[Full design](https://github.com/joanbp-dk/Repbased_voting_playground) (see the [readme.md](https://github.com/joanbp-dk/Repbased_voting_playground/blob/main/README.md) for details on how to play with the mechanism).
 
 ## Rank-and-Slide, by [Jonas](https://github.com/derjogi/)
 A simple rank-us-on-a-slider interface where voters rank candidates on one slider.
