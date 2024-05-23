@@ -34,15 +34,14 @@ while smoothing out inequalities of weight for Voter-Groups and make Voters real
 It takes 2 approaches to tackle this Problems:
 
    **1. Combine Quadratic Funding & Quadratic Voting:**
-   
-      * Quadratic Funding protects the outcome against to much influence from high-weight Voters, who put all their Voting-Power on one candidate.
-      * Quadratic Voting provides a much more fine grained distribution of the Grant, since the Candidate-Voting-Scores are mapped in a larger range.
-      * It is represented with the following Equations:
-          * $T_i(a) \in T_i$ (The VotingCredits($T_i(a)$), which are allocated to a candidate($a$), are a subset of the whole amount of VotingCredits of a Voter)
-          * $QS(a) = \sum_i^n \sqrt{T_i(a)}$ (The Quadratic-Score of a Candidate, is build by the sum over all Square-Rooted Token-Credits, allocated by each voter)
-          * $QV(a) = QS(a)^2$ (The Quadratic-Votes of a Candidate, is build by Squaring the Quadratic-Score)
-          * In general, the QCV-Mechanism distributes the Grant/Fund according to their percentual share of Quadratic-Votes, in respect to all Quadratic-Votes.
-          * For special cases like this, the Grant will be given completely to the Candidate with the highest $QV(a)$, which naturally also the highest Quadratic-Score. 
+   * Quadratic Funding protects the outcome against to much influence from high-weight Voters, who put all their Voting-Power on one candidate.
+   * Quadratic Voting provides a much more fine grained distribution of the Grant, since the Candidate-Voting-Scores are mapped in a larger range.
+   * It is represented with the following Equations:
+     * $T_i(a) \in T_i$ (The VotingCredits($T_i(a)$), which are allocated to a candidate($a$), are a subset of the whole amount of VotingCredits of a Voter)
+     * $QS(a) = \sum_i^n \sqrt{T_i(a)}$ (The Quadratic-Score of a Candidate, is build by the sum over all Square-Rooted Token-Credits, allocated by each voter)
+     * $QV(a) = QS(a)^2$ (The Quadratic-Votes of a Candidate, is build by Squaring the Quadratic-Score)
+     * In general, the QCV-Mechanism distributes the Grant/Fund according to their percentual share of Quadratic-Votes, in respect to all Quadratic-Votes.
+     * For special cases like this, the Grant will be given completely to the Candidate with the highest $QV(a)$, which naturally also the highest Quadratic-Score. 
 
   **2. Voting-Credit allocation depending on weights:**
   
