@@ -38,20 +38,18 @@ It takes 2 approaches to tackle this Problems:
    * Quadratic Voting provides a much more fine grained distribution of the Grant, since the Candidate-Voting-Scores are mapped in a larger range.
    * It is represented with the following Equations:
      * $T_i(a) \in T_i$ (The VotingCredits($T_i(a)$), which are allocated to a candidate($a$), are a subset of the whole amount of VotingCredits of a Voter)
-     * $QS(a) = \sum_i^n \sqrt{T_i(a)}$ (The Quadratic-Score of a Candidate, is build by the sum over all Square-Rooted Token-Credits, allocated by each voter)
+     * $QS(a) = \sum \sqrt{T_i(a)}$ (The Quadratic-Score of a Candidate, is build by the sum over all Square-Rooted Token-Credits, allocated by each voter)
      * $QV(a) = QS(a)^2$ (The Quadratic-Votes of a Candidate, is build by Squaring the Quadratic-Score)
      * In general, the QCV-Mechanism distributes the Grant/Fund according to their percentual share of Quadratic-Votes, in respect to all Quadratic-Votes.
      * For special cases like this, the Grant will be given completely to the Candidate with the highest $QV(a)$, which naturally also the highest Quadratic-Score. 
 
   **2. Voting-Credit allocation depending on weights:**
-  
-      * The amount of Voting Credits distributed, will always match exactly the Grant amount.
-      * Each Voter receives a share of the Grant, that equals his share on the total weights.
-      * This hopefully results in Voters really feeling the impact & power of their Voting-Rights.
-      * The outcome in Grant-Distribution will not exactly match the Voted-Credits, which is needed from an Incentive-Compatability persepective.
-      * Nevertheless, Voters know their upfront chance of impact, which will be bound by QF & QV rule to minimize the impact of high-weight-groupings.
+  * The amount of Voting Credits distributed, will always match exactly the Grant amount.
+  * Each Voter receives a share of the Grant, that equals his share on the total weights.
+  * This hopefully results in Voters really feeling the impact & power of their Voting-Rights.
+  * The outcome in Grant-Distribution will not exactly match the Voted-Credits, which is needed from an Incentive-Compatability persepective.
+  * Nevertheless, Voters know their upfront chance of impact, which will be bound by QF & QV rule to minimize the impact of high-weight-groupings.
 
-      
 
 You can find the Presentation-Slides here: https://docs.google.com/presentation/d/1MKdSUUVRQSXPU_SDV6O1fsfNEyTS2RN1oSDXPuwaZP0/edit#slide=id.g202d2d8a737_0_69
 
