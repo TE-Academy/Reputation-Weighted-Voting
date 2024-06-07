@@ -8,6 +8,12 @@ After the completion of the course, students will have the opportunity to earn a
 ### 30 points collected
 awarded for completing tasks which demonstrate knowledge and skills through **activities supporting the overall learning environment**.
 
+## Please create a Points Tracker spreadsheet with the following cells
+| Task # | Points earned | Description | Submitted on (date) |
+| --- | ----------- | ----------- | ----------- |
+| 01 | (Points) | Text | Date |
+| 02| (Points) | Text | Date |
+
 ## How It Works 
 
 ### ☑️ In-Course Activities
@@ -15,7 +21,7 @@ awarded for completing tasks which demonstrate knowledge and skills through **ac
 * :bulb: Each week, there will be activities that learners can complete.
 * :bulb: These activities range from simple skill demonstrations (e.g. perform a pull request) to major structural support (e.g. create a spreadsheet model for experimenting with voting algorithms).
 * :bulb: Each activity has a specified point value. 
-* :bulb: Learners will be responsible for keeping their own records of completed tasks. These records will be submitted at tbe end of the course for review. 
+* :bulb: Learners will be responsible for keeping their own records of completed tasks (Points Tracker spreadsheet). These records will be submitted at tbe end of the course for review. 
 * :bulb: To be eligible for the NFT, the learner must acquire a total of *at least 30 points* from completed verifiable tasks. 
 
 ### List of In-Course Activities (Projected)
