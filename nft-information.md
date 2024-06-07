@@ -6,8 +6,8 @@
 ## Overview
 
 After the completion of the course, students will have the opportunity to earn a TokenEngineering Academy NFT based on:
-* ☑️**First Criterion: In-Course Activities.** Acquisition of at least 30 course points, awarded for completing tasks which demonstrate knowledge and skills through **activities supporting the overall learning environment**.
-* ☑️**Second Criterion: Capstone Project.** This item allows the student to show their proficiency with using computational tools to thoroughly analyze features of voting algorithms, including analyzing potential weaknesses, in a professional-style report. 
+* ☑️**Criterion: In-Course Activities.** 
+Acquisition of at least 30 course points, awarded for completing tasks which demonstrate knowledge and skills through **activities supporting the overall learning environment**.
 
 ## How It Works 
 
@@ -36,9 +36,9 @@ Here is a list of activities that can be completed for points in the course.
 * **Point Value:** 2 points.
 
  **Task 3:**
-* **Description:** Write a summary of this session and collect all link to resources we’ve discussed. Submit a link 
-* **Availability:**  One volunteer, must be completed by May 8.
-* **Point Value:** 8 points. 
+* **Description:** Write a session summary and collect all link to resources we’ve discussed. Update the Optimism Forum post, week by week https://gov.optimism.io/t/reputation-based-weighted-voting-on-op-mainnet-te-academy/7993
+* **Availability:**  One volunteer
+* **Point Value:** 10 points. 
 
 **Task 4:** 
 * **Description:** Complete the [Week 1 Checklist](https://github.com/TE-Academy/Reputation-Weighted-Voting/blob/main/week-1-tasks-checklist.md) which provides a basis for skills useful later in the course. 
@@ -79,37 +79,23 @@ Here is a list of activities that can be completed for points in the course.
 * **Point Value:** 2 points. 
 
 
-
-
   
 #### Week 3: May 15 - 21
 
-* **Task [Number]:**
-* **Description:**
-* **Date Available:** 
-* **Point Value:**
+* **Task 9:** Design a Voting Mechanism, or a key design objective. Present in the study session!
+* **Date Available:** by May 15
+* **Point Value:** 8 points
 
 #### Week 4: May 22 - 28
 
-* **Task [Number]:**
-* **Description:**
-* **Date Available:** 
-* **Point Value:**
+* **Task 10:** Come up with a question. What would you like to verify to know that the mechanism chosen is fit for purpose?
+* **Description:** Note a question on Discord, optionally, map out how you would run a simulation to find an answer.
+* **Date Available:** by June 07
+* **Point Value:** 3 points
 
-#### Week 5: May 29 - June 5
+#### Week 5: May 29 - June 7
 
-* **Task [Number]:**
-* **Description:**
-* **Date Available:** 
-* **Point Value:**
-
-#### Week 6: June 6 - 11
-
-* **Task [Number]:**
-* **Description:**
-* **Date Available:** 
-* **Point Value:**
-
-
-## Description of Final Project
-
+* **Task 12:** Run a simulation
+* **Description:** Create a simulation (running your own simulation to help answer question), share the link to your Github.
+* **Date Available:** by June 07
+* **Point Value:** 20 points
