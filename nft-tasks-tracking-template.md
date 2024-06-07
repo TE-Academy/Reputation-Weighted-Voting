@@ -5,6 +5,9 @@
 
 **Important Note on Evidence of Completion:** To assign points, we need clear evidence that the task has been completed. It is the student's responsibility to provide this evidence. Depending on the task and how the student came to claim it, there will be various ways to present this, e.g. link to a Discord message, link to a timestamp in a specific YouTube video, link to a file on GitHub, etc. *Do not rely on the Instructors to remember anything! Keep your own records here.*
 
+* User ID:
+* Email:
+
 * Task #[Number]:
 * Points:
 * Evidence of Completion:
