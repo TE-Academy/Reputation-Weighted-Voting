@@ -4,10 +4,9 @@
 **Last Updated:** May 10, 2024
 
 ## Overview
-
-After the completion of the course, students will have the opportunity to earn a TokenEngineering Academy NFT based on:
-* ☑️**Criterion: In-Course Activities.** 
-Acquisition of at least 30 course points, awarded for completing tasks which demonstrate knowledge and skills through **activities supporting the overall learning environment**.
+After the completion of the course, students will have the opportunity to earn a TokenEngineering Academy NFT based on points collected. Students will need a minimum of
+### 30 points collected
+awarded for completing tasks which demonstrate knowledge and skills through **activities supporting the overall learning environment**.
 
 ## How It Works 
 
@@ -44,7 +43,6 @@ Here is a list of activities that can be completed for points in the course.
 * **Description:** Complete the [Week 1 Checklist](https://github.com/TE-Academy/Reputation-Weighted-Voting/blob/main/week-1-tasks-checklist.md) which provides a basis for skills useful later in the course. 
 * **Availability:**  Everyone, by May 8. 
 * **Point Value:** 2 points. 
-
 
 #### Week 2: May 8 - May 14. 
 
@@ -88,14 +86,17 @@ Here is a list of activities that can be completed for points in the course.
 
 #### Week 4: May 22 - 28
 
-* **Task 10:** Come up with a question. What would you like to verify to know that the mechanism chosen is fit for purpose?
-* **Description:** Note a question on Discord, optionally, map out how you would run a simulation to find an answer.
+* **Task 10:** Engage with the Discord threads
+* **Description:** Come up with a question. What would you like to verify to know that the mechanism chosen is fit for purpose? Answer on any question posted? How could we approach verification?
 * **Date Available:** by June 07
-* **Point Value:** 3 points
+* **Point Value:** 
+* 2 points for question in any of the above Discord threads
+* 2 points for answer to a question, in any of the above Discord threads
+* 5 points for a pull request to GitHub (your own branch or one where it is clearly welcome) with either Python code or Markdown that supports simulations and testing.
 
 #### Week 5: May 29 - June 7
 
 * **Task 12:** Run a simulation
 * **Description:** Create a simulation (running your own simulation to help answer question), share the link to your Github.
 * **Date Available:** by June 07
-* **Point Value:** 20 points
+* **Point Value:** 20 points for a pull request to GitHub (your own branch or one where it is clearly welcome) with Python code
