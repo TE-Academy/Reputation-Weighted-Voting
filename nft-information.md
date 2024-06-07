@@ -1,7 +1,7 @@
 # TE Academy Reputation-Weighted Voting 
 ## Course NFT Information
 
-**Last Updated:** May 10, 2024
+**Last Updated:** June 07, 2024
 
 ## Overview
 After the completion of the course, students will have the opportunity to earn a TokenEngineering Academy NFT based on points collected. Students will need a minimum of
